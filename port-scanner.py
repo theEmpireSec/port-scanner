@@ -11,8 +11,9 @@ print ("		|  __/ _ \| '__| __|______/ __|/ __/ _` | '_ \| '_ \ / _ \ '__|")
 print ('		| | | (_) | |  | |_       \__ \ (_| (_| | | | | | | |  __/ |   ')
 print ('		\_|  \___/|_|   \__|      |___/\___\__,_|_| |_|_| |_|\___|_|   ')
 print ('-'*80)
-print (' Author ≥ King')
-print (' Instagram ≥ hacking_with_king')
+print (' Author    ≥ King')
+print (' Instagram ≥ @the.empiresec')
+print (' GitHub    ≥ https://github.com/theEmpireSec')
 print ('-'*80)
 usage='Usage: python3 port-scanner.py <target> <start-port> <end-port>'
 if len(sys.argv) != 4:
